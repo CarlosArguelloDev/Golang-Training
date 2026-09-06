@@ -1,0 +1,19 @@
+# executable files
+*.exe
+*.exemain
+*.exe.*
+*.out
+*.app
+*.test
+*.prof
+*.a
+
+# enviroment files
+.DS_Store
+.vscode/
+.idea/
+
+# general
+*.log
+env/
+.env
