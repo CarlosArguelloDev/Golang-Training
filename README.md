@@ -3,3 +3,5 @@
 This repository contains exercises and some projects developed in go.
 
 ## EXERCISES
+### 01-HELLO-WORLD
+### 02-Even-Odd
